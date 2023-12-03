@@ -13,13 +13,13 @@ interface Puzzle {
         val testPath = "$packageName/${className}_test"
         println("Test output")
         println("-----------")
-        println(part1(readInput(testPath)))
-        println(part2(readInput(testPath)))
+        println("part1: " + part1(readInput(testPath)))
+        println("part2: " + part2(readInput(testPath)))
         println("-----------")
         println("Solution")
         println("-----------")
-        println(part1(readInput(path)))
-        println(part2(readInput(path)))
+        println("part1: " + part1(readInput(path)))
+        println("part2: " + part2(readInput(path)))
         println("-----------")
     }
 }
