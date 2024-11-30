@@ -1,5 +1,7 @@
 # Advent of Code
 
+![Banner](https://raw.githubusercontent.com/kotlin-hands-on/advent-of-code-kotlin-template/main/.github/readme/livestream.png)
+
 Welcome to the Advent of Code[^aoc] Kotlin project created by [thesohelshaikh][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, thesohelshaikh is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
