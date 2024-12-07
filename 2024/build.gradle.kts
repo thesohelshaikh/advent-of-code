@@ -18,6 +18,7 @@ dependencies {
     testImplementation(kotlin("test"))
     implementation(project(":common"))
     implementation("org.jetbrains.kotlinx:kotlinx-benchmark-runtime:0.4.13")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
 }
 
 benchmark {
